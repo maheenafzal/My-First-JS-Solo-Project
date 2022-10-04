@@ -1,0 +1,92 @@
+body {
+    margin: 20px auto;
+    color: white;
+    border: 3px solid ;
+    background: #001d3d;
+    height: 450px;
+    width: 800px;
+    font-family: 'Gemunu Libre', sans-serif;
+}
+
+#maker{
+    font-size: 12px;
+    text-align: center;
+}
+
+#MMA{
+    border-bottom: 2px solid white;
+}
+
+.h{
+    font-size: 35px;
+}
+
+.g{
+    font-size: 35px;
+}
+.container {
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    height: 200px; 
+}
+
+#count-el{
+    border: 2px solid black;
+    height: 150px;
+    background: black;
+    color: red;
+    font-size: 40px;
+}
+
+#guest-el{
+    border: 2px solid black;
+    height: 150px;
+    background: black;
+    color: red;
+    font-size: 40px;
+}
+
+
+.houseEl{
+    width: 150px;
+    height: 150px;
+    background-color: black;
+    color: white;
+    font-size: 24px;
+}
+
+}
+
+#btn-1{
+    margin: 30px;
+}
+#btn-2{
+    margin: 30px;
+}
+
+.b1{
+    width: 50px;
+    height: 50px;
+    background: #001d3d;
+    border-radius: 08px;
+    border: 1px solid white;
+    color: white;
+    }
+.b2{
+    width: 50px;
+    height: 50px;
+    background: #001d3d;
+    border-radius: 08px;
+    border: 1px solid white;
+    color: white;
+    }
+.b3{
+    width: 50px;
+    height: 50px;
+    background: #001d3d;
+    border-radius: 08px;
+    border: 1px solid white;
+    color: white;
+    }
+    
